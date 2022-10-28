@@ -6,3 +6,12 @@ span {
   color: aquamarine;
   background-color: chocolate;
 }
+.p1 {
+  color: red;
+  font-size: 18px;
+  line-height: 30px;
+}
+.box {
+  color: sienna;
+  font-size: 36px;
+}
