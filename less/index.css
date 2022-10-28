@@ -16,7 +16,12 @@ span {
   font-size: 36px;
 }
 .box01 {
+  font-size: 35px;
+  font-family: '楷体';
+  color: burlywood;
+}
+.box02 {
   font-size: 30px;
   font-family: '楷体';
-  color: darkgoldenrod;
+  color: saddlebrown;
 }
